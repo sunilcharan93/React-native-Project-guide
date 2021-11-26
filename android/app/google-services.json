@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605873903302",
+    "project_id": "hook-feac6",
+    "storage_bucket": "hook-feac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605873903302:android:73914c73050f94886ae9c7",
+        "android_client_info": {
+          "package_name": "com.hook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605873903302-3t82p67dcp624uvf8kdd41p804irk79d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_2AsHhXBBeQ-7qcbJSkmgGmLACyT0m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605873903302-3t82p67dcp624uvf8kdd41p804irk79d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
